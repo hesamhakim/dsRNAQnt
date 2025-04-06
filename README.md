@@ -7,8 +7,10 @@ The pipeline quantifies the proportion of reads originating from double-stranded
 
 ## Publication
 - **Title**: Trafficking of mitochondrial double-stranded RNA from mitochondria to the cytosol
-- **Link**: https://pmc.ncbi.nlm.nih.gov/articles/PMC11220484/
-- **Citation**: [Add citation details]
+- **PubMed Link**: https://pmc.ncbi.nlm.nih.gov/articles/PMC11220484/
+- **Citation**: Matthew R Krieger, Melania Abrahamian, Kevin L He, Sean Atamdede, Hesamedin Hakimjavadi, Milica Momcilovic, Dejerianne Ostrow, Simran DS Maggo, Yik Pui Tsang, Xiaowu Gai, Guillaume F Chanfreau, David B Shackelford, Michael A Teitell, Carla M Koehler
+Life Science Alliance Jul 2024, 7 (9) e202302396; DOI: 10.26508/lsa.202302396
+- **PMCID**: PMC11220484 
 
 ## Scripts
 The repository contains two main R scripts:
