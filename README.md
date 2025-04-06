@@ -11,12 +11,11 @@ The pipeline quantifies the proportion of reads originating from double-stranded
 Life Science Alliance Jul 2024, 7 (9) e202302396; DOI: 10.26508/lsa.202302396
 - **PubMed Link**: https://pmc.ncbi.nlm.nih.gov/articles/PMC11220484/
 - **Publisher Link**: https://www.life-science-alliance.org/content/7/9/e202302396
-- **PMCID**: PMC11220484 
 
 ## Scripts
 The repository contains two main R scripts:
 
-1. `strandCheckR_strand_distribution02.R`
+1. `strandCheckR_strand_distribution.R`
    - Filters dsRNA reads
    - Visualizes distribution of mitochondrial read coverages mapping to +/- strands
    - Uses sliding window approach (100bp windows, 20bp steps)
