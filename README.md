@@ -1,6 +1,3 @@
-Based on the research reports and the provided information, I'll help create a comprehensive README file and provide suggestions for revising the R scripts. Let's start with the README file:
-
-```markdown
 # Mitochondrial dsRNA Analysis Pipeline
 
 ## Overview
@@ -105,17 +102,3 @@ Please feel free to submit issues and pull requests for improvements.
 
 ## Contact
 [Add contact information]
-```
-
-For the revised R scripts, I'll provide the structure for the main script (`strandCheckR_strand_distribution02.R`). Would you like me to provide the complete revised versions of both scripts with detailed comments?
-
-The revised scripts would include:
-1. Comprehensive header documentation
-2. Function-level documentation
-3. Inline comments explaining complex operations
-4. Error handling
-5. Consistent code formatting
-6. Parameter documentation
-7. Output documentation
-
-Would you like me to proceed with providing the revised versions of both scripts?
